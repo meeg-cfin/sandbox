@@ -1,6 +1,6 @@
 # Getting started with M/EEG research at CFIN
 
-This is a stepping stone-repo for new users (and new/unspecific ideas). Actual useful code will live elsewhere in the `meeg_cfin` organisation, and documentation should be written on the [internal wiki](wiki.pet.auh.dk/wiki) (link will only work while inside the DNC building).
+This is a stepping stone-repo for new users (and new/unspecific ideas). Actual useful code will live elsewhere in the `meeg_cfin` organisation, and documentation should be written on the [internal wiki](http://wiki.pet.auh.dk/wiki) (link will only work while inside the DNC building).
 
 ## Things this repo can be used for
 
