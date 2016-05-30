@@ -9,7 +9,7 @@ The first inaugural communal hack session with the intent of
 
 will be held on
 
-**June 8th, 2016, at the 5th floor meeting room, CFIN**
+**June 8th, 2016, at the CFIN 5th floor meeting room, 9-16**
 
 1. participants should reserve the whole day (ca. 9-4) for this
 2. _everyone can contribute_: bring your questions and worries and we’ll not only find answers, but you will document them!
@@ -29,7 +29,7 @@ Either something you'd like to contribute with, or something you miss/would like
 
 ## Program/Agenda
 
-TBA
+[See](program.md)
 
 ## Registration
 
