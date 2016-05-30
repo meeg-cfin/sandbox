@@ -1,4 +1,4 @@
-# Hack CFIN 1, Program
+# Hack CFIN 1, 8 June 2016
 
 Work in progress
 

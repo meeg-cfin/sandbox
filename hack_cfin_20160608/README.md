@@ -29,7 +29,7 @@ Either something you'd like to contribute with, or something you miss/would like
 
 ## Program/Agenda
 
-[See](program.md)
+[See here](program.md)
 
 ## Registration
 
